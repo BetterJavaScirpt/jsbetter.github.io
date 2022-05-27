@@ -1,1 +1,2 @@
-# [!] Welcome to my webstie :D
+# Better Script - # new programming language!
+Website made by @BetterJavaScript
