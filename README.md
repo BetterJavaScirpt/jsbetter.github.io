@@ -1,2 +1,2 @@
-# Better Script - # new programming language!
+# Better Script - new programming language!
 Website made by @BetterJavaScript
